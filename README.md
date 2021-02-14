@@ -10,4 +10,4 @@ Add 4 RemoteEvents into ReplicatedStorage(Name them: ForceField, God, Speed, Kic
 
 Activation:
 
-To activate it, go to this repo:https://github.com/Kagaku-idiot/AdminScriptActivation
+To activate it, go to this repo: https://github.com/Kagaku-idiot/AdminScriptActivation

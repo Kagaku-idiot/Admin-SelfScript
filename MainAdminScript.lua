@@ -39,6 +39,8 @@ game.Players.PlayerAdded:Connect(function(player)
 			if player.Name == table[1] or player.Name == table[2] then
 				game.Players:FindFirstChild(playerToKick):Kick(reason)
 				print(playerToKick.." Was Kicked For This Reason: "..reason)
+else
+ player:Kick("Exploiter")
 			end
 		end)
 		game.ReplicatedStorage.Speed.OnServerEvent:Connect(function(player, playerToSpeed, reason, value)
